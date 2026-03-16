@@ -3,7 +3,7 @@
 If you experience issues with the Geofun app or have feedback, please contact:
 
 Developer: Arda  
-Email: your@email.com  
+Email: ardatugrul1999@gmail.com  
 
 Geofun is a geography quiz game featuring:
 - Map Challenge
