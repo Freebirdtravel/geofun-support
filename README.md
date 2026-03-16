@@ -12,3 +12,15 @@ Geofun is a geography quiz game featuring:
 - Geo Quiz
 
 Thank you for playing Geofun.
+
+
+# Privacy Policy – Geofun
+
+Geofun does not collect, store, or share any personal data.
+
+The app does not use analytics, tracking, or advertising services.
+
+All gameplay occurs locally on the device.
+
+If you have any questions, contact:
+email@example.com
